@@ -2,7 +2,12 @@
 In the ever-evolving realm of data engineering, standing out amongst a sea of candidates requires more than just technical know-how. This book provides a structured roadmap for acing the data engineering interview, designed to equip readers with the skills and insights needed to make a lasting impression.
 
 Chapter 1: Resume prep / LinkedIn prep Begin by mastering the art of the first impression. Learn how to craft a compelling resume and an impactful LinkedIn profile that captures attention and showcases expertise, setting the foundation for a successful application process.
-[Draft](https://docs.google.com/document/d/1V48_YTdHD3Baj00XFlf_G0CeBHhL4ERr2LWm759FW6w/edit)
+
+- [Draft](https://docs.google.com/document/d/1V48_YTdHD3Baj00XFlf_G0CeBHhL4ERr2LWm759FW6w/edit)
+- Medium Article: https://medium.com/@seancoyne/what-is-big-o-notation-o-n-time-and-space-complexity-841367face05
+- LinkedIn post: https://www.linkedin.com/posts/seanmartincoyne_what-is-big-o-notation-on-time-and-activity-7098386241640955904-E0_Z/?utm_source=share&utm_medium=member_desktop
+- Reddit Post: https://www.reddit.com/r/dataengineering/comments/15uu1ac/preparing_for_the_data_engineering_coding/
+- Facebook post:
 
 Chapter 2: Leetcode python Dive deep into Python-focused Leetcode challenges, honing your problem-solving abilities. Understand the intricacies of algorithms, optimizing for both efficiency and clarity, ensuring you're well-prepared for code-centric interview segments.
 [Draft](https://docs.google.com/document/d/1DgiT5j7WdSI2upD9NSgnXqukTiRIFrSDDdglvmT2zgc/edit#heading=h.hox36d3nu728)

@@ -13,6 +13,7 @@ Chapter 2: Leetcode python Dive deep into Python-focused Leetcode challenges, 
 [Draft](https://docs.google.com/document/d/1DgiT5j7WdSI2upD9NSgnXqukTiRIFrSDDdglvmT2zgc/edit#heading=h.hox36d3nu728)
 
 Chapter 3: Leetcode sql SQL forms the backbone of many data operations. Tackle SQL-based Leetcode exercises, refining your command over queries, operations, and data manipulations, and becoming adept at tackling real-world database problems.
+[Draft](https://docs.google.com/document/d/1Q0htuVMlGZQPECXPZYl9GsIUAs5x_Q7yWkZS5eJHA-A/edit)
 
 Chapter 4: SQL concepts/ data modeling Broaden your SQL horizon. Delve into foundational SQL concepts and the nuances of data modeling. Understand relational databases, normalization, indexing, and how to design data structures that efficiently store and retrieve information.
 

@@ -16,11 +16,15 @@ Chapter 3: Leetcode sql SQL forms the backbone of many data operations. Tackle
 [Draft](https://docs.google.com/document/d/1Q0htuVMlGZQPECXPZYl9GsIUAs5x_Q7yWkZS5eJHA-A/edit)
 
 Chapter 4: SQL concepts/ data modeling Broaden your SQL horizon. Delve into foundational SQL concepts and the nuances of data modeling. Understand relational databases, normalization, indexing, and how to design data structures that efficiently store and retrieve information.
+[Draft](https://docs.google.com/document/d/17IAHkdK5jrhtpRJkXKyIFfWNcsAexPC7N0r0IkDBkFo/edit)
 
 Chapter 5: Product sense Data engineering isn't just about crunching numbers; it's about deriving value. Develop a keen product sense, learning how to align data-driven solutions with business objectives, and ensuring your engineering efforts drive tangible outcomes.
+[Draft](https://docs.google.com/document/d/1gWT07R4_CfdrqQVuFfvy6E_A180x8P176MvN8Ocw_4E/edit)
 
 Chapter 6: System design A comprehensive guide to the architectural aspect of data engineering. Grasp the essentials of designing robust, scalable, and efficient systems that handle vast volumes of data, ensuring seamless operations and integrations.
 
 Chapter 7: Behavioral interviews Finally, understand that technical expertise is just one side of the coin. Dive into the art of behavioral interviews, learning how to present your experiences, challenges, and achievements in a way that showcases not just your skills, but your character, teamwork, and growth mindset.
+
+Chapter 8: Leadership interview
 
 Endowed with hands-on exercises, expert insights, and real-world scenarios, "Mastering the Data Engineering Interview" is a definitive guide for aspirants looking to nail their interviews and step confidently into the world of data engineering.

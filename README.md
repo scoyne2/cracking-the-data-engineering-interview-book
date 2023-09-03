@@ -25,6 +25,6 @@ Chapter 6: System design A comprehensive guide to the architectural aspect of 
 
 Chapter 7: Behavioral interviews Finally, understand that technical expertise is just one side of the coin. Dive into the art of behavioral interviews, learning how to present your experiences, challenges, and achievements in a way that showcases not just your skills, but your character, teamwork, and growth mindset.
 
-Chapter 8: Leadership interview
+Chapter 8: Leadership interview. The often-overlooked but crucial aspect of senior and staff data engineering interview focused on leadership, team management, strategy and potential.
 
 Endowed with hands-on exercises, expert insights, and real-world scenarios, "Mastering the Data Engineering Interview" is a definitive guide for aspirants looking to nail their interviews and step confidently into the world of data engineering.
